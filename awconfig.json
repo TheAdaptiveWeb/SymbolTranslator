@@ -1,0 +1,10 @@
+{
+    "name": "Symbol Translator",
+    "id": "symbol-translator",
+    "version": "1.0.0",
+    "description": "Adapter for translating text into symbols",
+    "script": "index.js",
+    "webpackConfig": "./webpack.config.js",
+    "author": "adamhirst",
+    "tags": ["aac", "symbols"]
+}

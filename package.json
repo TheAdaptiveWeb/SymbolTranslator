@@ -1,0 +1,24 @@
+{
+    "name": "@adaptiveweb/symbol-translator",
+    "version": "1.0.0",
+    "description": "Adapter for translating text into symbols",
+    "main": "index.js",
+    "scripts": {
+        "start": "awcli watch",
+        "build": "awcli build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TheAdaptiveWeb/SymbolTranslator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/TheAdaptiveWeb/SymbolTranslator.git/issues"
+    },
+    "homepage": "https://github.com/TheAdaptiveWeb/SymbolTranslator.git#readme",
+    "author": "adamhirst",
+    "license": "MPL-2.0",
+    "dependencies": {
+        "adaptiveweb": "^1.1.3",
+        "webpack": "^4.29.6"
+    }
+}
