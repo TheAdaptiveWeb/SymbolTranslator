@@ -19,6 +19,6 @@
     "license": "MPL-2.0",
     "dependencies": {
         "adaptiveweb": "^1.1.3",
-        "webpack": "^4.29.6"
+        "webpack": "^5.75.0"
     }
 }
